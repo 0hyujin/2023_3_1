@@ -1,0 +1,75 @@
+﻿  오유진.cpp
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(14,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(20,26): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(32,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(35,20): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(39,20): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(43,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(47,21): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(54,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(61,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(78,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(79,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(80,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(88,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(89,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(90,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(110,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(112,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(112,33): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(114,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(120,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(132,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(142,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(143,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(146,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(151,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(153,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(158,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(167,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(169,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(174,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(176,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(181,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(193,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(194,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(196,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(201,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(203,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(211,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(212,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(221,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(222,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(224,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(229,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(231,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(237,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(238,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(251,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(254,33): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(254,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(256,33): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(256,51): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(264,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(267,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(272,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(275,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(282,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(289,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(290,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(297,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(298,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(301,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(305,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(314,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(316,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(321,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(329,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(331,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(336,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(344,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(346,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(350,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(357,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\오유진.cpp(360,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Project1.vcxproj -> C:\Users\ohyuj\Desktop\오유진\23년 3학년 1학기\컴퓨터그래픽스\과제10\x64\Debug\Project1.exe
